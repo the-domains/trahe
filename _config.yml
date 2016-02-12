@@ -1,0 +1,28 @@
+name: trahe
+favicon: null
+layout_spectrum: 0.8467327456455678
+typography_spectrum: 0.3134261916857213
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.27802796964533627
+  lightness: 0.2579805557616055
+  saturation: 0.15239010890945792
+  rhythmicContrast: 0.6857512111309916
+purpose: []
